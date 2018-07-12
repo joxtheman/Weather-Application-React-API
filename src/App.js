@@ -4,8 +4,7 @@ import Title from "./components/Title";
 import Form from "./components/Form";
 import WeatherInfo from "./components/WeatherInfo";
 
-const API_KEY = "4633f169bd08ed62d1aeb291d72ed4fe";
-//http://api.openweathermap.org/data/2.5/weather?q=London,uk&appid=4633f169bd08ed62d1aeb291d72ed4fe
+const API_KEY = "YOUR_API_KEY";
 
 class App extends Component {
   defaultState = {
